@@ -1,0 +1,34 @@
+.view {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+.bg {
+  &__top {
+    position: absolute;
+    top: -35rem;
+    left: -15rem;
+    @media only screen and (max-width:375px) {
+      top: -35rem;
+      left: -48rem;
+
+    }
+  }
+  &__bottom {
+    position: absolute;
+    bottom: -35rem;
+    right: -15rem;
+    @media only screen and (max-width:375px) {
+      bottom: -35rem;
+      right: -48rem;
+
+    }
+  }
+  &__bottom,
+  &__top {
+    @media only screen and (max-width:375px) {
+
+    }
+  }
+}
