@@ -7,6 +7,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -19,9 +20,13 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-
 ![Desktop design](desktop-design.jpg)
 ![Mobile design](mobile-design.jpg)
+
+### Links
+- Solution URL: [Solution URL](https://github.com/Jalobig/profile-card-component)
+- Live Site URL: [Live Site URL](https://Jalobig.github.io/profile-card-component/)
+
 
 ## My process
 
